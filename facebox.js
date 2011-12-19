@@ -6,7 +6,7 @@
  * Examples at http://famspam.com/facebox/
  *
  * Licensed under the MIT:
- *   http://www.opensource.org/licenses/mit-license.php
+ *   http://www.opensource.org/licenses/mit-license.php its nice to edit like this
  *
  * Copyright 2007, 2008 Chris Wanstrath [ chris@ozmm.org ]
  *
